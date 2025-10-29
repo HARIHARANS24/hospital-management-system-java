@@ -13,7 +13,7 @@ A comprehensive Java-based Hospital Management System that helps manage patients
 
 ## 🛠️ Technologies Used
 
-- Java
+- Java 
 - MySQL Database
 - JDBC for Database Connectivity
 - Eclipse IDE
