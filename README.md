@@ -6,7 +6,7 @@ A comprehensive Java-based Hospital Management System that helps manage patients
 
 - 👥 Patient Management
 - 👨‍⚕️ Doctor Management
-- 📅 Appointment Scheduling
+- 📅 Appointment Scheduling 
 - 💊 Medicine Management  
 - 📊 Reports Generation      
 - 🔐 Secure Authentication  
