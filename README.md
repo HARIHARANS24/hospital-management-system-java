@@ -21,19 +21,22 @@ A comprehensive Java-based Hospital Management System that helps manage patients
 ## 📁 Project Structure
 
 ```
-🏥 hospital-management-system/
-├── 📂 src/
-│   ├── 📂 com/
-│   │   └── 📂 hospitalmanagement/
-│   │       ├── 📄 Hospitalmanagement.java
-│   │       ├── 📄 Patient.java
-│   │       └── 📄 Doctors.java
-│   └── 📄 module-info.java
-├── 📂 bin/
-├── 📂 lib/
-├── 📂 .settings/
-├── 📄 .classpath
-└── 📄 .project
+Directory structure:
+└── hariharans24-hospital-management-system-java/
+    ├── README.md
+    ├── LICENSE
+    └── backend/
+        ├── bin/
+        │   └── com/
+        │       └── hospitalmanagement/
+        ├── lib/
+        └── src/
+            ├── module-info.java
+            └── com/
+                └── hospitalmanagement/
+                    ├── Doctors.java
+                    ├── Hospitalmanagement.java
+                    └── Patient.java
 ```
 
 ## 🚀 Getting Started
